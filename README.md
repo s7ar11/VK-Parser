@@ -40,6 +40,7 @@
 Создайте файл .env:
 
     VK_TOKEN=ваш_токен_vk_api
+    VK_GROUPS=group1,group2,group3
 
 Как получить VK API :
     (https://smmplanner.com/blog/gaid-po-api-vk-kak-podkliuchit-i-ispolzovat/#02)
